@@ -20,6 +20,7 @@ namespace SpouseStuff
             { "Harvey", new HarveyRoom() },
             { "Maru", new MaruRoom() },
             { "Sam", new SamRoom() },
+            { "Penny", new PennyRoom() },
             { "Leah", new LeahRoom() }
         };
 

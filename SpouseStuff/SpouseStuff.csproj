@@ -50,6 +50,7 @@
     <Compile Include="Spouses\ISpouseRoom.cs" />
     <Compile Include="Spouses\LeahRoom.cs" />
     <Compile Include="Spouses\MaruRoom.cs" />
+    <Compile Include="Spouses\PennyRoom.cs" />
     <Compile Include="Spouses\SamRoom.cs" />
     <Compile Include="Spouses\Utility.cs" />
   </ItemGroup>
