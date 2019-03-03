@@ -53,6 +53,7 @@
     <Compile Include="Spouses\PennyRoom.cs" />
     <Compile Include="Spouses\SamRoom.cs" />
     <Compile Include="Spouses\SebastianRoom.cs" />
+    <Compile Include="Spouses\ShaneRoom.cs" />
     <Compile Include="Spouses\Utility.cs" />
   </ItemGroup>
   <ItemGroup>

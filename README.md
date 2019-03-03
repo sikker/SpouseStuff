@@ -18,5 +18,6 @@ So far, the following marriagable characters are supported in the mod:
  * Sam
  * Penny
  * Sebastian
+ * Shane
 
 The goal is to have all 12 possible spouses supported for the 1.0 release.
