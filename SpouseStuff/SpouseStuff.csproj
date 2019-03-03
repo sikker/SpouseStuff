@@ -47,6 +47,7 @@
     <Compile Include="Spouses\AbigailRoom.cs" />
     <Compile Include="Spouses\AlexRoom.cs" />
     <Compile Include="Spouses\ElliottRoom.cs" />
+    <Compile Include="Spouses\EmilyRoom.cs" />
     <Compile Include="Spouses\HarveyRoom.cs" />
     <Compile Include="Spouses\ISpouseRoom.cs" />
     <Compile Include="Spouses\LeahRoom.cs" />
