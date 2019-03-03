@@ -23,7 +23,8 @@ namespace SpouseStuff
             { "Penny", new PennyRoom() },
             { "Leah", new LeahRoom() },
             { "Sebastian", new SebastianRoom() },
-            { "Shane", new ShaneRoom() }
+            { "Shane", new ShaneRoom() },
+            { "Elliott", new ElliottRoom() }
         };
 
         /// <summary>The mod entry point, called after the mod is first loaded.</summary>
