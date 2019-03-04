@@ -25,7 +25,8 @@ namespace SpouseStuff
             { "Sebastian", new SebastianRoom() },
             { "Shane", new ShaneRoom() },
             { "Elliott", new ElliottRoom() },
-            { "Emily", new EmilyRoom() }
+            { "Emily", new EmilyRoom() },
+            { "Haley", new HaleyRoom() }
         };
 
         /// <summary>The mod entry point, called after the mod is first loaded.</summary>
@@ -47,7 +48,7 @@ namespace SpouseStuff
             }
 
             // Uncomment this next line to log spots to interact with in the house
-            this.Monitor.Log($"{Game1.player.getTileX()}x{Game1.player.getTileY()}/{Game1.player.FacingDirection}.");
+            //this.Monitor.Log($"{Game1.player.getTileX()}x{Game1.player.getTileY()}/{Game1.player.FacingDirection}.");
 
             spouses[Game1.player.spouse].InteractWithSpot(Game1.player.getTileX(), Game1.player.getTileY(), Game1.player.FacingDirection);
         }

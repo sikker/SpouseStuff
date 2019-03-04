@@ -8,18 +8,4 @@ For now, to install the mod you need to install and set up SMAPI for developers 
 ModEntry.cs contains a Dictionary with each spouse name and a corresponding ISpouseRoom object, as well as a button press event listener. To modify/add interactions for a specific spouse, edit their corresponding class in the Spouses folder. You can get the tileX, tileY and faceDirection values from the SMAPI console whenever you're in the farmhouse and use the action button somewhere.
 
 ## Supported spouses
-So far, the following marriagable characters are supported in the mod:
-
- * Abigail
- * Alex
- * Harvey
- * Maru
- * Leah
- * Sam
- * Penny
- * Sebastian
- * Shane
- * Elliott
- * Emily
-
-The goal is to have all 12 possible spouses supported for the 1.0 release.
+All twelve possible spouses in the vanilla game are supported. At present this mod will not work correctly with mods that modify the layout of the spouse rooms, but support for the most popular of those is planned for a future release.

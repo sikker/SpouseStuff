@@ -34,7 +34,7 @@ namespace SpouseStuff.Spouses
                 // Bushes
                 Game1.drawObjectDialogue("*Sniff* mmmh. The leaves on these bushes give the place a lovely scent.");
             }
-            if (
+            else if (
                 (tileX == 40 && tileY == 14 && faceDirection == 0)
                 ||
                 (tileX == 39 && tileY == 13 && faceDirection == 1)
