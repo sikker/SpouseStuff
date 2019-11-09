@@ -1,12 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27428.2043
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpouseStuff", "SpouseStuff\SpouseStuff.csproj", "{9A68DD77-76C9-438C-9A24-C11C96921A8E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A30EC275-6A63-4FB6-A98F-CE79232D8ECB}"
 	ProjectSection(SolutionItems) = preProject
+		COPYING.txt = COPYING.txt
 		README.md = README.md
 	EndProjectSection
 EndProject
